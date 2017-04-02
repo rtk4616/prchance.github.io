@@ -1,0 +1,31 @@
+/* Add here all your css styles (customizations) */
+.pr-case-desc {
+  color: #fff;
+  margin: 4px;
+  padding: 2px;
+  font-size: 11px;
+  font-family: Helvetica, Tahoma, Arial, STXihei,"华文细黑", Heiti, "黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", sans-serif;
+}
+
+
+.with-errors ul.list-unstyled > li {
+  color: #a94442;
+}
+
+ul.list-services {
+  padding: 0;
+  list-style: none;
+}
+
+div.item > img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contacts > li {
+  color: #777;
+}
+
+.indent {
+  text-indent: 1.5em;
+}
